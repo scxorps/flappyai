@@ -1,0 +1,6 @@
+inputs = bird-y , top-pipe, bottom-pipe
+outputs = jump 
+activation function
+population size = 100
+fitness function = distance
+max generations = 30
